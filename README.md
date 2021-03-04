@@ -22,3 +22,18 @@ python仿真程序
 3️⃣：隔离。  
 
 结果：  
+1️⃣：初始数据下的结果  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure1_1.png)    
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure1_2.png)  
+2️⃣：戴口罩，把感染者和潜伏者的传染概率都减半  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure2_1.png)      
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure2_2.png)  
+3️⃣：社交距离，把安全距离从2.0降低为1.5  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure3_1.png)  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure3_2.png)  
+4️⃣：隔离，40天的启动期，100张床位  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure4_1.png)  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure4_2.png)  
+5️⃣：隔离，20天的启动期，100张床位  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure5_1.png)  
+![](https://github.com/SoriveZJQ/2019-ncov/blob/main/Figure5_1.png)
